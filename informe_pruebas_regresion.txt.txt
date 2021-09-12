@@ -1,0 +1,42 @@
+Informe el caso 8 reveló un fallo ocasionado por la falta 32.
+Cambio: Realizar los cambios en el programa TRADE.
+              Observación TRADE.C es un elemento de configuración de software que se deriva de la especificación.
+Estrategia:
+ 	Asignar responsables para los cambios
+	Verificar la generación de cambio
+	Generar nuevos casos de prueba relacionados al de regresión.
+
+
+Cambio en la especificación de requerimientos
+El nombre de la empresa debe contener al menos 3 caracteres y máximo 12.
+
+
+-----------------------------------------------------------------------------------------------
+
+Informe el caso 9 reveló un fallo ocasionado por la falta 31.
+Cambio: Realizar los cambios en el programa TRADE.
+              Observación TRADE.C es un elemento de configuración de software que se deriva de la especificación.
+Estrategia:
+ 	Asignar responsables para los cambios
+	Verificar la generación de cambio
+	Generar nuevos casos de prueba relacionados al de regresión.
+
+Cambio en la especificación de requerimientos
+El precio de la acción debe ser diferente a 0.
+El precio de la acción debe ser menor a 99999.
+El precio de la acción debe ser un valor positivo.
+
+--------------------------------------------------------------------------------------------
+
+Informe el caso 10 reveló un fallo ocasionado por la falta 31.
+Cambio: Realizar los cambios en el programa TRADE.
+              Observación TRADE.C es un elemento de configuración de software que se deriva de la especificación.
+Estrategia:
+ 	Asignar responsables para los cambios
+	Verificar la generación de cambio
+	Generar nuevos casos de prueba relacionados al de regresión.
+
+Cambio en la especificación de requerimientos
+El número de acciones debe ser diferente a 0.
+El número de acciones debe ser menor a 99999.
+El número de acciones debe ser un valor positivo.
