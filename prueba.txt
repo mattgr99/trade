@@ -2,3 +2,5 @@ C-BLD   3.0       2 pepe
 C-FastF 425	  57
 M-KJK   222.0     25
 T-GG    2.0       5
+O-KLMB    5.0     10
+O-GGB    2.0      15
